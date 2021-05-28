@@ -60,13 +60,16 @@ Indicating the average gas reduction is about 20%. Which we confirm by
 analyzing the data in more detail, we get the following information:
 
 Gas Reduction:
-- Between 0-9% 25608 34.72%
-- Between 10-19% 46034 62.42%
-- Between 20-29% 1913 2.59%
-- Between 30-39% 175 0.23%
-- Between 40-49% 8 0.01%
-- Between 50-59% 1 0.0013%
-- Between 60-100% 0 0.00%
+
+|Gas reduction %|Total Contracts| % contracts|
+|---------------|---------------|------------|
+| 0-9%          | 25,608        | 34.72%     |
+| 10-19%        | 46,034        | 62.42%     |
+| 20-29%        |  1,913        |  2.59%     |
+| 30-39%        |    175        |  0.23%     |
+| 40-49%        |      8        |  0.01%     |
+| 50-59%        |      1        |  0.0013%   |
+| 60-100%       |      0        |  0.00%     |
 
 ![](./img/pie_chart1.png)
 
